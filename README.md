@@ -1,8 +1,8 @@
 # Cynthia Marinković
 
-Visual artist and creative technologist based in Málaga, Spain.
+MFA in Visual Arts and Creative Technologist
 
-I work where art direction meets code: immersive 3D web experiences, generative AI imagery, interactive brand avatars and AI agent systems for content creation. My practice comes from Fine Arts (MFA, thesis on the poetics of the trace) and decades of professional visual work, including performance creative for paid campaigns across Meta, YouTube and Google.
+Studio Kovic: art direction for boutique brands, from oil painting to the entire digital ecosystem. Avant-garde design with an author's vision, powered by artificial intelligence and AI agents: immersive 3D web experiences, AI-generated imagery, interactive brand avatars and agent systems for content creation, including the production of assets for digital marketing campaigns on Meta, YouTube and Google.
 
 ## Selected projects
 
